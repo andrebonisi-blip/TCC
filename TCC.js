@@ -1,1 +1,1 @@
-console.log("TCC.js loaded successfully!"); //teste
+console.log("TCC.js loaded successfully!");
